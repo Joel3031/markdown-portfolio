@@ -1,4 +1,4 @@
-**My favorite places to visit**
-* _Paris_
-* _Germany_
-* _Norway_
+My favorite places to visit
+* Paris
+* Germany
+* Norway
