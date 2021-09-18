@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite places to visit
+* Paris
+* Germany
+* Norway
